@@ -37,7 +37,7 @@ Descriptions only; source code is private.
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/wilshem/
-Email: better@itjustgetsbetter.org
+Email: wilshem@itjustgetsbetter.org
 
 ---
 
