@@ -1,6 +1,6 @@
 # Wilshem Pennick
 
-AI Engineer | Founder, It Just Gets Better LLC
+AI Engineer and AI Operations | Founder, It Just Gets Better LLC
 
 I am an AI engineer working across AI operations and technical program
 management. I build systems in which AI agents work as digital teammates: I
