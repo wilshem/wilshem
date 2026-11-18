@@ -37,7 +37,7 @@ email search and production pipeline for public records requests; core
 system built by Blue Dot Fund.
 
 - Per the Town Commission minutes (March 19, 2026), the system processed
-  about 31,000 emails and recovered nine meetings from the recording device
+  about 31,000 emails across all Town email addresses
 - My additions: review binders with duplicate removal, faster mailbox
   syncing, search and reliability fixes; tests grew from 27 to 86
 
