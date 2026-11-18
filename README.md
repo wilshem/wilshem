@@ -29,20 +29,20 @@ audit their own email, records and contracts, each client isolated.
 
 - Features: records requests, review binders, contract audit and transition
   readiness; built for Microsoft 365, Google Workspace and mailbox exports
-- Validation: more than 3,200 automated tests and a rehearsed backup and
-  restore on a test environment
-- Contract reader: tested on CUAD, a public set of 510 real commercial
-  contracts whose key clauses were marked by lawyers, it found 86.0% of
-  those clauses (3,794 of 4,410)
+- Validation: 3,200+ automated tests and a rehearsed restore; the contract
+  reader found 86.0% of lawyer-marked clauses in 510 public contracts (CUAD)
 
 **Marineland Public Intelligence Platform** (Town of Marineland, FL, 2026):
-email search and production pipeline for the Town's public records
-requests. The core system was built by Blue Dot Fund.
+email search and production pipeline for public records requests; core
+system built by Blue Dot Fund.
 
 - Per the Town Commission minutes (March 19, 2026), the system processed
   about 31,000 emails and recovered nine meetings from the recording device
 - My additions: review binders with duplicate removal, faster mailbox
   syncing, search and reliability fixes; tests grew from 27 to 86
+
+**Claude Code Skills for Small Service Businesses** (2026): five agent
+skills from content planning to a live quote form; four used on a client.
 
 ## Skills
 
