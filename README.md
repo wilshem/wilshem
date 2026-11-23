@@ -46,6 +46,11 @@ library (semantic versioning, changelog, documented change process,
 validation checks on every pull request); five skills, four used on one
 client engagement; the market and content planning skill is a draft.
 
+**Barbering Sanitation Training Series** (2026): eight-module video training
+built from Florida's barbershop rule plus OSHA and CDC guidance, written at a
+7th-grade reading level, with AI narration and automated caption, contrast, and
+audio checks.
+
 ## Skills
 
 Python (AI-assisted development), PostgreSQL, MySQL, Terraform, AWS, Docker,
