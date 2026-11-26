@@ -1,6 +1,6 @@
 # Wilshem Pennick
 
-AI Operations and Engineering | Founder, It Just Gets Better LLC
+AI Operations and Engineering | Founder, It Just Gets Better, L.L.C.
 
 I am an AI operations and program professional who builds AI-enabled
 workflows with agents as digital teammates: I design them, set requirements
