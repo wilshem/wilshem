@@ -24,7 +24,7 @@ review every result. Master of Space Operations candidate, Embry-Riddle.
 
 Full write-ups: https://github.com/wilshem/portfolio
 
-**Private Intelligence Platform** (It Just Gets Better LLC, 2026; pre-revenue,
+**Private Intelligence Platform** (It Just Gets Better, L.L.C., 2026; pre-revenue,
 test environment): email, records and contract search and audit for private
 businesses and non-profits, each client isolated.
 - Features: records requests, review binders, contract audit and transition
